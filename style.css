@@ -1,0 +1,49 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+.shreyan{
+    border: 1px solid blue;
+    float:none;
+}
+.shreyan h5,p{
+    margin-left: 25px;
+}
+.movie_head{
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius:10px; 
+    width: 1400px;
+    height: 50px;
+    font-size: 30px;
+    display:inline-block;
+}
+.movie_head i{
+    float:right;
+}
+.environment_li{
+    margin-top: 13px;
+}
+.environment_li h4{
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+.img_modal{
+    display: inline-block;
+}
+.modal-content{
+    margin-top: 40px;
+}
